@@ -10,6 +10,9 @@
           "type": "string"
         },
         {
+          "type": "array"
+        },
+        {
           "type": "object",
           "properties": {
             "loader": { "type": "string" },
